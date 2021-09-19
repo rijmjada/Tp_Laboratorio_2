@@ -1,0 +1,77 @@
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Calculadora de Ormeño.Diego.exe
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Calculadora de Ormeño.Diego.deps.json
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Calculadora de Ormeño.Diego.runtimeconfig.json
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Calculadora de Ormeño.Diego.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Calculadora de Ormeño.Diego.dll
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\ref\Calculadora de Ormeño.Diego.dll
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Calculadora de Ormeño.Diego.pdb
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora_de_Ormeño.Diego.Properties.Resources.resources
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.csproj.CopyComplete
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.dll
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\ref\Calculadora de Ormeño.Diego.dll
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.pdb
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\ConsoleApp2\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora_de_Ormeño.Diego.DiegoOrmenio.resources
+C:\Users\Administrador\Desktop\Diego Ormeño Calculadora\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Diego Ormeño Calculadora\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora_de_Ormeño.Diego.DiegoOrmenio.resources
+C:\Users\Administrador\Desktop\Diego Ormeño Calculadora\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora_de_Ormeño.Diego.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Diego Ormeño Calculadora\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Diego Ormeño Calculadora\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Diego Ormeño Calculadora\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Diego Ormeño Calculadora\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Diego Ormeño Calculadora\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Diego Ormeño Calculadora\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.dll
+C:\Users\Administrador\Desktop\Diego Ormeño Calculadora\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\ref\Calculadora de Ormeño.Diego.dll
+C:\Users\Administrador\Desktop\Diego Ormeño Calculadora\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.pdb
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Calculadora de Ormeño.Diego.exe
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Calculadora de Ormeño.Diego.deps.json
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Calculadora de Ormeño.Diego.runtimeconfig.json
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Calculadora de Ormeño.Diego.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Calculadora de Ormeño.Diego.dll
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\ref\Calculadora de Ormeño.Diego.dll
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Calculadora de Ormeño.Diego.pdb
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora_de_Ormeño.Diego.DiegoOrmenio.resources
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora_de_Ormeño.Diego.Properties.Resources.resources
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.csproj.CopyComplete
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.dll
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\ref\Calculadora de Ormeño.Diego.dll
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.pdb
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Calculadora de Ormeño.Diego.exe
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Calculadora de Ormeño.Diego.deps.json
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Calculadora de Ormeño.Diego.runtimeconfig.json
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Calculadora de Ormeño.Diego.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Calculadora de Ormeño.Diego.dll
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\ref\Calculadora de Ormeño.Diego.dll
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Calculadora de Ormeño.Diego.pdb
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora_de_Ormeño.Diego.DiegoOrmenio.resources
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora_de_Ormeño.Diego.Properties.Resources.resources
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.csproj.CopyComplete
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.dll
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\ref\Calculadora de Ormeño.Diego.dll
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.pdb
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Calculadora de Ormeño.Diego\obj\Debug\net5.0-windows\Calculadora de Ormeño.Diego.genruntimeconfig.cache

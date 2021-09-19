@@ -1,0 +1,35 @@
+C:\Users\Administrador\source\repos\ConsoleApp2\Entidades\bin\Debug\net5.0-windows\Entidades.deps.json
+C:\Users\Administrador\source\repos\ConsoleApp2\Entidades\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Administrador\source\repos\ConsoleApp2\Entidades\bin\Debug\net5.0-windows\ref\Entidades.dll
+C:\Users\Administrador\source\repos\ConsoleApp2\Entidades\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Administrador\source\repos\ConsoleApp2\Entidades\obj\Debug\net5.0-windows\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\ConsoleApp2\Entidades\obj\Debug\net5.0-windows\Entidades.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\ConsoleApp2\Entidades\obj\Debug\net5.0-windows\Entidades.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\ConsoleApp2\Entidades\obj\Debug\net5.0-windows\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\ConsoleApp2\Entidades\obj\Debug\net5.0-windows\Entidades.dll
+C:\Users\Administrador\source\repos\ConsoleApp2\Entidades\obj\Debug\net5.0-windows\ref\Entidades.dll
+C:\Users\Administrador\source\repos\ConsoleApp2\Entidades\obj\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Entidades\bin\Debug\net5.0-windows\Entidades.deps.json
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Entidades\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Entidades\bin\Debug\net5.0-windows\ref\Entidades.dll
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Entidades\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Entidades\obj\Debug\net5.0-windows\Entidades.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Entidades\obj\Debug\net5.0-windows\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Entidades\obj\Debug\net5.0-windows\Entidades.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Entidades\obj\Debug\net5.0-windows\Entidades.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Entidades\obj\Debug\net5.0-windows\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Entidades\obj\Debug\net5.0-windows\Entidades.dll
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Entidades\obj\Debug\net5.0-windows\ref\Entidades.dll
+C:\Users\Administrador\Desktop\test_tp1_lab2-main\Entidades\obj\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Entidades\bin\Debug\net5.0-windows\Entidades.deps.json
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Entidades\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Entidades\bin\Debug\net5.0-windows\ref\Entidades.dll
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Entidades\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Entidades\obj\Debug\net5.0-windows\Entidades.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Entidades\obj\Debug\net5.0-windows\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Entidades\obj\Debug\net5.0-windows\Entidades.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Entidades\obj\Debug\net5.0-windows\Entidades.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Entidades\obj\Debug\net5.0-windows\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Entidades\obj\Debug\net5.0-windows\Entidades.dll
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Entidades\obj\Debug\net5.0-windows\ref\Entidades.dll
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 1\Entidades\obj\Debug\net5.0-windows\Entidades.pdb
