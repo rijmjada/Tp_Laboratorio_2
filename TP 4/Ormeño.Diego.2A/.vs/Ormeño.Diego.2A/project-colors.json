@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "636b14e2-f577-4997-a466-22468a081f2d": {
+      "ProjectGuid": "636b14e2-f577-4997-a466-22468a081f2d",
+      "DisplayName": "TestConsolaEntidades",
+      "ColorIndex": 0
+    },
+    "67e1e86f-3cb5-41f8-a536-fbd8ff6d51d3": {
+      "ProjectGuid": "67e1e86f-3cb5-41f8-a536-fbd8ff6d51d3",
+      "DisplayName": "Formularios",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

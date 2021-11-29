@@ -1,0 +1,15 @@
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\bin\Debug\net5.0\AccesoDatos_BD.deps.json
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\bin\Debug\net5.0\AccesoDatos_BD.dll
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\bin\Debug\net5.0\ref\AccesoDatos_BD.dll
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\bin\Debug\net5.0\AccesoDatos_BD.pdb
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\bin\Debug\net5.0\Entidades.dll
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\obj\Debug\net5.0\AccesoDatos_BD.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\obj\Debug\net5.0\AccesoDatos_BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\obj\Debug\net5.0\AccesoDatos_BD.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\obj\Debug\net5.0\AccesoDatos_BD.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\obj\Debug\net5.0\AccesoDatos_BD.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\obj\Debug\net5.0\AccesoDatos_BD.csproj.CopyComplete
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\obj\Debug\net5.0\AccesoDatos_BD.dll
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\obj\Debug\net5.0\ref\AccesoDatos_BD.dll
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\obj\Debug\net5.0\AccesoDatos_BD.pdb

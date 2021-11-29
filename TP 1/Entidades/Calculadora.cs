@@ -13,15 +13,15 @@ namespace Entidades
         /// </summary>
         /// <param name="operador"> caracter a validar </param>
         /// <returns> Si el caracter es un operador valido retorna el mismo , caso contrario retornara '+' </returns>
-        private static string ValidarOperador(char operador)
+        private static char ValidarOperador(string operador)
         {
-            string ret = operador.ToString();
+            string ret = "+";
 
-            if (operador != '-' && operador != '/' && operador != '*')
+            if (operador == "-" || operador == "/" | operador == "*")
             {
-                ret = "+";
+                ret = operador;
             }
-            return ret;
+            return Convert.ToChar(ret);
         }
 
         /// <summary>
@@ -31,19 +31,19 @@ namespace Entidades
         /// <param name="num2"> valor numero 2 </param>
         /// <param name="operador"> tipo de operador </param>
         /// <returns> Si puede hacer la operacion devuelve el resultado , caso contrario devuelve 0 </returns>
-        public static double Operar(Operando num1, Operando num2, char operador)
+        public static double Operar(Operando num1, Operando num2, string operador)
         {
             double ret = 0;
 
-            switch (Calculadora.ValidarOperador(operador))
+            switch(Calculadora.ValidarOperador(operador))
             {
-                case "-":
+                case '-':
                     ret = num1 - num2;
                     break;
-                case "/":
+                case '/':
                     ret = num1 / num2;
                     break;
-                case "*":
+                case '*':
                     ret = num1 * num2;
                     break;
                 default:

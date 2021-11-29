@@ -21,7 +21,7 @@ namespace Entidades
         {
             set
             {
-                this.numero = ValidarNumero(Convert.ToString(value));
+                this.numero = ValidarOperando(value);
             }
         }
 
@@ -32,18 +32,17 @@ namespace Entidades
         /// <summary>
         /// Constructor inicializa en 0
         /// </summary>
-        public Operando()
+        public Operando() : this(0)
         {
-            this.numero = 0;
         }
 
         /// <summary>
         /// Constructor recibe tipo de dato double 
         /// </summary>
         /// <param name="numero"> valor a asignar </param>
-        public Operando(double numero) : this(numero.ToString())
+        public Operando(double numero) 
         {
-
+            this.numero = numero;
         }
 
         /// <summary>
@@ -54,8 +53,6 @@ namespace Entidades
         {
             this.Numero = strNumero;
         }
-
-
 
         #endregion
 
@@ -68,11 +65,11 @@ namespace Entidades
         /// <returns>
         /// 0 si no se pudo convertir, caso contrario el numero ingresado
         /// </returns>
-        private static double ValidarNumero(string _numero)
+        private static double ValidarOperando(string strNumero)
         {
             double ret = 0;
 
-            if (Double.TryParse(_numero, out double number))
+            if (Double.TryParse(strNumero, out double number))
             {
                 ret = number;
             }

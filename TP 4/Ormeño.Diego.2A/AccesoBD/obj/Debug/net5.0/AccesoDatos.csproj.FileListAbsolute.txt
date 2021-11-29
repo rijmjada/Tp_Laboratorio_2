@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\obj\Debug\net5.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\obj\Debug\net5.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\obj\Debug\net5.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\obj\Debug\net5.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\TPs_Labo 2\TP 3\Ormeño.Diego.2A\AccesoBD\obj\Debug\net5.0\AccesoDatos.csproj.CoreCompileInputs.cache
